@@ -1,0 +1,13 @@
+{
+  "name": "md5-hash-dict",
+  "version": "1.0.7",
+  "description": "hash all files in a path and create hash/file dictionary",
+  "main": "hasher.js",
+  "repository": "https://github.com/3zbumban/md5-hash-dict.git",
+  "author": "3zbumban",
+  "license": "MIT",
+  "dependencies": {
+    "md5-file": "^4.0.0",
+    "walk": "^2.3.14"
+  }
+}
